@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Kauã!
 
-🎓 Atualmente estou finalizando meu curso de **Front-End** no **SENAI**, com conclusão prevista para **dezembro de 2025**.  
-💻 Em 2026, vou iniciar minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.  
-🚀 Apaixonado por tecnologia, design e pelo desenvolvimento de interfaces criativas e funcionais.
+Sou Auxiliar Administrativo e estou em transição de carreira para a área de Tecnologia, buscando uma oportunidade de estágio em desenvolvimento.
+Atualmente curso o 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado para consolidar minha base técnica e prática.
+
+🎯 Busco um estágio onde eu possa aprender com a equipe, aplicar meus conhecimentos e evoluir profissionalmente na área de desenvolvimento de software.
 
 ---
 
@@ -14,6 +15,7 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ---
