@@ -35,17 +35,19 @@ Atualmente curso o 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 ## Um pouco sobre mim
 - Curioso por natureza e sempre buscando aprender algo novo  
 - Gosto de transformar ideias em interfaces intuitivas e bonitas  
-- No tempo livre: gosto de jogos, música e explorar novas tecnologias  
+- No tempo livre: gosto de jogos, música e explorar novas tecnologias
 
 ---
 
 ---
 
-## Onde me encontrar
+## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin-aqui)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram-aqui)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kaua-carreiro.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
 
 ---
 
