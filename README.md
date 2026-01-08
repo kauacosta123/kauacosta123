@@ -28,18 +28,9 @@
 ## 💡 Um pouco sobre mim
 - 🧩 Curioso por natureza e sempre buscando aprender algo novo  
 - 🎨 Gosto de transformar ideias em interfaces intuitivas e bonitas  
-- 🎮 No tempo livre: gosto de games, música e explorar novas tecnologias  
+- 🎮 No tempo livre: gosto de jogos, música e explorar novas tecnologias  
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/kauacosta123">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauacosta123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacosta123&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
