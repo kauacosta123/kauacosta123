@@ -1,7 +1,7 @@
 # Olá, eu sou o Kauã!
 
-Sou Auxiliar Administrativo e estou em transição de carreira para a área de Tecnologia, buscando uma oportunidade de estágio em desenvolvimento.
-Atualmente curso o 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado para consolidar minha base técnica e prática.
+Atuo como Auxiliar Administrativo e estou em transição de carreira para a área de Tecnologia, buscando uma oportunidade de estágio em T.I .
+Atualmente estou cursando o 1º semestre de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado para consolidar minha base técnica e prática.
 
  Busco um estágio onde eu possa aprender com a equipe, aplicar meus conhecimentos e evoluir profissionalmente na área de desenvolvimento de software.
 
