@@ -26,7 +26,7 @@
 * **React.js** e boas práticas de componentização
 * **Design Responsivo** para diferentes dispositivos
 * Conceitos de **UX/UI**
-* Desenvolvimento de aplicações com **Python**
+* Desenvolvimento de aplicações com **Java**
 
 ---
 
