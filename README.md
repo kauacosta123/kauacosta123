@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Kauã Carreiro
 
-🎯 **Buscando uma oportunidade de estágio em Desenvolvimento de Software**, com foco em desenvolvimento Front-end (HTML, CSS, JavaScript e React) e Python. Aplico meus conhecimentos em projetos próprios e estou em constante evolução para crescer profissionalmente dentro de uma equipe de tecnologia.
+**Buscando uma oportunidade de estágio em Desenvolvimento de Software**, com foco em desenvolvimento Front-end (HTML, CSS, JavaScript e React) e Python. Aplico meus conhecimentos em projetos próprios e estou em constante evolução para crescer profissionalmente dentro de uma equipe de tecnologia.
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📚 O que estou estudando atualmente
+## O que estou estudando atualmente
 
 * Desenvolvimento de projetos com **HTML, CSS e JavaScript**
 * **React.js** e boas práticas de componentização
@@ -30,14 +30,14 @@
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 * Sou apaixonado por tecnologia e aprendizado contínuo
 * Gosto de transformar ideias em interfaces intuitivas e funcionais
 * Tenho interesse em desenvolvimento web, automação e soluções digitais
 * Estou sempre buscando novos desafios para evoluir minhas habilidades
 
-🎮 No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
+No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
 
 ---
 
