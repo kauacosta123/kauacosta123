@@ -73,8 +73,3 @@ No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
 ---
 
 > *"O segredo do sucesso é nunca parar de aprender."*
-
-
----
-
-> *"O segredo do sucesso é nunca parar de aprender."*
