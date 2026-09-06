@@ -50,25 +50,13 @@ No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
 
 ## 🌐 Conecte-se comigo
 
-<div align="left">
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-kaua-carreiro.netlify.app/)
 
-<a href="https://portfolio-kaua-carreiro.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kauacarreirocosta/)
 
-<a href="https://www.linkedin.com/in/kauacarreirocosta/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_kauaccosta)
 
-<a href="https://www.instagram.com/_kauaccosta" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="mailto:kauacarreirocosta@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kauacarreirocosta@gmail.com)
 
 ---
 
