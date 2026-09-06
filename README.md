@@ -29,7 +29,7 @@
 * **Design Responsivo** para diferentes dispositivos
 * Conceitos de **UX/UI**
 * Desenvolvimento de aplicações com **Java**
-* Desenvolvimento e gerenciamento de Banco de Dados com **MySql**
+* Desenvolvimento e gerenciamento de Banco de Dados com **MySQL**
 
 ---
 
