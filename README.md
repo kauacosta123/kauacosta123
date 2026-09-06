@@ -50,6 +50,12 @@ No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
 
 ---
 
+## 📄 Currículo"
+
+[![Currículo](https://img.shields.io/badge/Visualizar%20Currículo-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculo-Kaua-Carreiro.pdf)
+
+---
+
 ## 🌐 Conecte-se comigo
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kaua-carreiro.netlify.app/)
