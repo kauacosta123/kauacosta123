@@ -28,12 +28,12 @@
 
 ## O que estou estudando atualmente
 
-* Desenvolvimento de projetos com **HTML, CSS e JavaScript**
+* Desenvolvimento de projetos com **HTML, CSS, JavaScript, TypeScript e Angular**
 * **React.js** e boas práticas de componentização
 * **Design Responsivo** para diferentes dispositivos
 * Conceitos de **UX/UI**
 * Desenvolvimento de aplicações com **Java**
-* Desenvolvimento e gerenciamento de Banco de Dados
+* Desenvolvimento e gerenciamento de Banco de Dados com **MySql**
 
 ---
 
