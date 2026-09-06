@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Kauã Carreiro
 
-**Buscando uma oportunidade de estágio em Desenvolvimento de Software**, com base em desenvolvimento front-end (HTML, CSS, JavaScript e React) e Python, aplicando conhecimentos práticos em projetos próprios e buscando evolução contínua dentro de uma equipe de tecnologia. 
+**Buscando estágio em Desenvolvimento de Software**. Cursando Análise e Desenvolvimento de Sistemas, com projetos próprios em produção e base em JavaScript, TypeScript,
+Python e Java, buscando evolução contínua dentro de uma equipe de tecnologia. 
+ 
 
 ---
 
