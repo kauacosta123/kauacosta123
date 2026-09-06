@@ -18,6 +18,7 @@
 <img title="Java" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img title="MySQL" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img title="Figma" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img title="Notion" alt="Notion" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
 
 </div>
 
