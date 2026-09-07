@@ -54,7 +54,7 @@ No tempo livre, gosto de jogar, ouvir música e explorar novas tecnologias.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kaua-carreiro.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauacarreirocosta/)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculo-Kaua-Carreiro.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Curriculo-Kaua.pdf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kauaccosta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauacarreirocosta@gmail.com)
 
